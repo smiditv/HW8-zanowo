@@ -1,0 +1,21 @@
+:root {
+    --title-collor: #212121;
+    --main-text-color: #757575;
+    --background-heroe-color:#2F303A;
+    --background-team-color: #F5F4FA;
+    --background-footer-color: #2F303A;
+    --hover-color: #2196F3;
+    --portfolio-btn-color:#212121;
+}
+
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    border: 0;
+    padding: 0;
+    white-space: nowrap;
+    clip-path: inset(100%);
+    clip: rect(0 0 0 0);
+}
