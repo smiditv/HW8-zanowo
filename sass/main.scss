@@ -1,19 +1,45 @@
-@import './utils/placeholders';
+@import './utils/variables';
+@import './base/normalize';
+@import './utils/mixins';
 
-@import './base/reset';
-@import './base/comon';
-@import './utils/vars';
-@import './utils/hiden';
+@import'./base/reset'; 
 
-@import './components/modal';
 @import './components/container';
-@import './components/btn';
+@import './components/section';
+@import './components/header-logo';
+@import './components/mob-menu';
+@import './components/social-list';
+@import './components/footer-logo';
+@import './components/footer-social-list';
+@import './components/modal';
+@import './components/modal-form';
+@import './components/modal-form-checkbox';
 
-@import './layout/client';
 @import './layout/header';
+@import './layout/header-nav';
+@import './layout/header-contacts';
 @import './layout/hero';
-@import './layout/quality';
-@import './layout/work';
+@import './layout/properties';
+@import './layout/about';
 @import './layout/team';
-@import './layout/portfolio';
+@import './layout/clients';
 @import './layout/footer';
+@import './layout/portfolio-nav-menu';
+@import './layout/portfolio-card-set';
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
